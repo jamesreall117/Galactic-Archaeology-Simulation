@@ -13,3 +13,7 @@ S
 #contracts/galactic-simulations.clar,0/5/053779d6f93a14445a4e65ee8c486c824bab0632
 R
 "tests/galactic-simulations.test.ts,5/1/51572d1be8f05bd98bf79b7042221b910c29060f
+O
+contracts/historical-event.clar,0/d/0de8f927e3eaa1db9dda77a4e8c2457a44b47b51
+N
+tests/historical-event.test.ts,8/d/8d22e3a3bdeefc59438d0b073dd3bf5e54ebd822

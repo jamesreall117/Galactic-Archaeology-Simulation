@@ -19,6 +19,11 @@ epoch = 2.5
 path = 'contracts/galactic-simulations.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.historical-event]
+path = 'contracts/historical-event.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
