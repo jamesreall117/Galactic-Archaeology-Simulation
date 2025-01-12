@@ -17,3 +17,5 @@ O
 contracts/historical-event.clar,0/d/0de8f927e3eaa1db9dda77a4e8c2457a44b47b51
 N
 tests/historical-event.test.ts,8/d/8d22e3a3bdeefc59438d0b073dd3bf5e54ebd822
+K
+contracts/stellar-data.clar,f/c/fc40aec32a62589a6e720e80dd578a1d31e2e310
