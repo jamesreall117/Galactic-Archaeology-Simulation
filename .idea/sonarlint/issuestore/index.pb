@@ -19,3 +19,5 @@ N
 tests/historical-event.test.ts,8/d/8d22e3a3bdeefc59438d0b073dd3bf5e54ebd822
 K
 contracts/stellar-data.clar,f/c/fc40aec32a62589a6e720e80dd578a1d31e2e310
+J
+tests/stellar-data.test.ts,d/2/d23c532ea06ee49ac24c1e4907581e1eba5d6dcf
