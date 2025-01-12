@@ -5,3 +5,5 @@ R
 "contracts/collaboration-tools.clar,c/b/cbabe3037b6f3f2bdfff6b3dd9467ebf18807207
 Q
 !tests/collaboration-tools.test.ts,d/9/d999e07f4880eaaa55b90fe6aee9b20b0dc928cd
+U
+%contracts/galactic-discovery-nft.clar,5/e/5e764bfb8f98d0ea9a39ce30c3185dd282242ecd
