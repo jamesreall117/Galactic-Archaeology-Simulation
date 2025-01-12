@@ -9,3 +9,5 @@ U
 %contracts/galactic-discovery-nft.clar,5/e/5e764bfb8f98d0ea9a39ce30c3185dd282242ecd
 T
 $tests/galactic-discovery-nft.test.ts,d/a/da9c6f82ad5cb4f4c276b8162ae28ce70d6a421a
+S
+#contracts/galactic-simulations.clar,0/5/053779d6f93a14445a4e65ee8c486c824bab0632
